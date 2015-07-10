@@ -17,8 +17,8 @@ Ingrédients
 Réalisation
 -----------
 
-Faire caraméliser les fruits en mettant un peu de sucre dessus et en les passants 5 minutes au four avant d'ajouter la pâte
-cuisson 45 minutes à 180°C
-Ajouter un peu de sucre sur le gateau pendant la cuisson pour faire caraméliser le dessus.
+- Faire caraméliser les fruits en mettant un peu de sucre dessus et en les passants 5 minutes au four avant d'ajouter la pâte
+- Cuisson 45 minutes à 180°C
+- Ajouter un peu de sucre sur le gateau pendant la cuisson pour faire caraméliser le dessus.
 
     MoussS'
