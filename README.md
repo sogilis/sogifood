@@ -4,4 +4,4 @@ Recettes de cuisine
 Desserts
 --------
 
-- [Clafoutis de MoussS'](./desserts/clafoutis.md)
+- [Clafoutis de MousS'](./desserts/clafoutis.md)
