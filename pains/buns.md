@@ -75,6 +75,11 @@ Four préchauffé à 200°C
 
 Si vous ne les utilisez pas tout de suite, vous pouvez les congeler une fois tranchés.
 
+### Résultat
+
+_(par un collègue de chez [Hexo+](https://hexoplus.com/))_
+
+![Résultat](./buns.pict/resultat.jpg)
 
 _[source](http://sandrakavital.blogspot.fr/2010/07/un-hamburger-parfait-commence-avec-un.html)_
 
