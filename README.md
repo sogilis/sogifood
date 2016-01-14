@@ -11,3 +11,8 @@ Pains
 -----
 
 - [Buns](./pains/buns.md)
+
+Foie Gras
+---------
+
+- [Terrine aux épices de pain d'épice](./foie_gras/terrine.md)
