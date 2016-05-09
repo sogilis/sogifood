@@ -11,6 +11,7 @@ Pains
 -----
 
 - [Buns](./pains/buns.md)
+- [Hot Dog](./pains/hotdog.md)
 
 Foie Gras
 ---------
