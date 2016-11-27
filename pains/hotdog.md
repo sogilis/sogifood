@@ -10,11 +10,11 @@ Ingrédients
 - 2 sachets de levure de boulanger déshydratée
 - 1,5 cc de sel
 - 2 cs de sucre
-- 1 œuf + 1 jaune
-- 30g de beurre mou en morceaux
-- 250ml de lait
+- 30 gr de maïzena
+- 30g de beurre végétal en morceaux
+- 300ml de lait de soja
 - 240ml d'eau
-- 1 blanc d'œuf + 1 cs d'eau, graines de pavot, sésame, etc. pour le glaçage
+- 75ml de jus de pois chiches, graines de pavot, sésame, etc. pour le glaçage
 
 Réalisation
 -----------
@@ -23,9 +23,9 @@ Réalisation
 
 Dans un grand saladier :
 
-- mélanger la farine, la levure, le sel et le sucre
-- creuser un puit, ajouter l'œuf et le jaune, le lait et le beurre ramolli
-- mélanger progressivement et ajouter petit à petit l'eau : il n'est pas nécessaire de tout mettre suivant votre farine et la taille de vos œufs (j'ai de très gros œufs, je n'ai mis qu'environ 200ml)
+- mélanger la farine, la maïzena, la levure, le sel et le sucre
+- creuser un puit, ajouter le lait de soja et le beurre ramolli
+- mélanger progressivement et ajouter petit à petit l'eau : il n'est pas nécessaire de tout mettre suivant votre farine
 
 Une fois que la pâte se décolle bien des parois, la verser sur le plan de travail fariné et pétrir une dizaine de minutes.
 
@@ -52,7 +52,7 @@ Prendre un saladier légèrement fariné :
 
 Four préchauffé à 180°C
 
-- badigeonner les pains avec le blanc d'œuf allongé d'eau
+- badigeonner les pains avec le jus de pois chiches
 - parsemer de sésame, pavot, etc
 - cuire environ 15 minutes jusqu'à avoir un beau blond doré
 - refroidir sur une grille
