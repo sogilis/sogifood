@@ -26,3 +26,7 @@ Astuces
 Si les fruits ne rendent pas assez de parfums, il suffit de les percer lors de la macération.
 
 ![rhum_orange_citron_clementine](./rhum_orange_citron_clementine.png)
+
+***Après 45 jours de macération :***
+
+![rhum_orange_citron_clementine_bouteille](./rhum_orange_citron_clementine_bouteille.png)
