@@ -1,5 +1,6 @@
-Recettes de cuisine
-===================
+#Recettes de cuisine
+--------------------
+
 
 Desserts
 --------
@@ -23,7 +24,13 @@ Foie Gras
 
 - [Terrine aux épices de pain d'épice](./foie_gras/terrine.md)
 
+Plats
+-----
+
+- [Magret de canard sauce poivre vert flambé au cognac](./plats/canard_poivre_vert_cognac.md)
+
 Boissons
 --------
 
 - [Rhum arrangé caramel vanille](./boissons/rhum_caramel_vanille.md)
+- [Rhum arrangé orange citron clémentine](./boissons/rhum_orange_citron_clementine.md)
