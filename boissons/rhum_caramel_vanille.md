@@ -25,3 +25,7 @@ Astuces
 Pour les impatients, utililiser de l'extrait de vanille pour avoir un rhum arrangé immédiatement à la place des gousses de vanille.
 
 ![rhum_caramel_vanille](./rhum_caramel_vanille.png)
+
+***Après 5 mois de macération :***
+
+![rhum_caramel_vanille_bouteille](./rhum_caramel_vanille_bouteille.jpg)
