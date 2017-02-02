@@ -13,7 +13,7 @@
 ##Réalisation
 
 - Séparer les jaunes et les blancs des oeufs
-- Vider la farine dans une terrine et y creuser un trou au centre
+- Verser la farine dans une terrine et y creuser un trou au centre
 - Mettre le sucre, le sel, le beurre fondu et refroidi et les 6 jaunes d'oeufs
 - Travailler le tout au fouet ou au mixeur en délayant progressiveement avec le lait jusqu'à obtenir une pâte molle et homogène.
 - Ajouter le rhum ou la fleur d'oranger
