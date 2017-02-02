@@ -2,35 +2,29 @@
 --------------------
 
 
-Desserts
---------
+##Desserts
 
 - [Clafoutis de MousS'](./desserts/clafoutis.md)
-- [Gauffres](./desserts/gauffres/README.md)
+- [Gaufres](./desserts/gaufres/README.md)
 
-Pains
------
+##Pains
 
 - [Buns](./pains/buns.md)
 - [Hot Dog](./pains/hotdog.md)
 
-Pâtes
------
+##Pâtes
 
 - [Raviolis](./pâtes/raviolis.md)
 
-Foie Gras
----------
+##Foie Gras
 
 - [Terrine aux épices de pain d'épice](./foie_gras/terrine.md)
 
-Plats
------
+##Plats
 
 - [Magret de canard sauce poivre vert flambé au cognac](./plats/canard_poivre_vert_cognac.md)
 
-Boissons
---------
+##Boissons
 
 - [Rhum arrangé caramel vanille](./boissons/rhum_caramel_vanille.md)
 - [Rhum arrangé orange citron clémentine](./boissons/rhum_orange_citron_clementine.md)
