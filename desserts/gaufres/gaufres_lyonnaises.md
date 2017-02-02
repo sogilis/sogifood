@@ -1,5 +1,4 @@
-#Gaufres Lyonnaises
--------------------
+#Gaufres Lyonnaises#
 
 ##Ingrédients
 
