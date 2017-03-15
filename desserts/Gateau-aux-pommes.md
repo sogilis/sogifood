@@ -1,4 +1,6 @@
-Pour le gâteau : 
+# Gâteau aux pommes
+
+Pour le gâteau :
 - 150g de farine
 - 130g de sucre
 - 1 sachet de levure chimique
@@ -12,7 +14,7 @@ Couper les pommes en gros quartiers et les mettre dans un moule à manqué
 Mélanger tout le reste et verser par dessus
 Cuire 20mn à 180°C (un peu plus selon les fours) jusqu'à ce qu'un couteau planté dans le gâteau ressorte propre
 
-Pour la croute : 
+Pour la croute :
 - 80g de beurre fondu
 - 1 oeuf
 - 100g de sucre

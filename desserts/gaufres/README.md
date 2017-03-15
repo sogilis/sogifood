@@ -1,4 +1,4 @@
-#Gaufres#
+# Gaufres
 
 - [Gaufres Lyonnaises](./gaufres_lyonnaises.md)
 - [Gaufres Françaises](./gaufres_francaises.md)

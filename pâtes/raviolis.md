@@ -61,7 +61,7 @@ entre elles.
 - Posez de la farce sur la galette.
 - Refermez et soudez par pression avec une fourchette.
 
-![Raviolis crus](./raviolis.pict/raviolis crus.jpg)
+![Raviolis crus](./raviolis.pict/raviolis-crus.jpg)
 
 ### Cuisson
 
@@ -75,4 +75,4 @@ Dans une grande casserolle d'eau bouillante :
 
 À manger sans attendre.
 
-![Raviolis cuits](./raviolis.pict/raviolis cuits.jpg)
+![Raviolis cuits](./raviolis.pict/raviolis-cuits.jpg)
