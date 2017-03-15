@@ -6,7 +6,7 @@
 
 - [Clafoutis de MousS'](./desserts/clafoutis.md)
 - [Gaufres](./desserts/gaufres/README.md)
-
+- [Gâteau aux pommes de Margaux (avec croute au beurre)](./desserts/Gateau aux pommes avec croute au beurre.md)
 ##Pains
 
 - [Buns](./pains/buns.md)
