@@ -7,6 +7,7 @@
 - [Clafoutis de MousS'](./desserts/clafoutis.md)
 - [Gaufres](./desserts/gaufres/README.md)
 - [Gâteau aux pommes de Margaux (avec croute au beurre)](./desserts/Gateau-aux-pommes.md)
+- [Gâteau aux poires de Marien (végétalien)](./desserts/gateau-aux-poires-vegetalien.md)
 
 ## Pains
 
