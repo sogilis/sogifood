@@ -1,5 +1,5 @@
 # Recettes de cuisine
---------------------
+---------------------
 
 
 ## Desserts
@@ -28,5 +28,6 @@
 
 ## Boissons
 
+- [Rhum de Noël](./boissons/rhum_noel.md)
 - [Rhum arrangé caramel vanille](./boissons/rhum_caramel_vanille.md)
 - [Rhum arrangé orange citron clémentine](./boissons/rhum_orange_citron_clementine.md)
