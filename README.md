@@ -8,6 +8,7 @@
 - [Gaufres](./desserts/gaufres/README.md)
 - [Gâteau aux pommes de Margaux (avec croute au beurre)](./desserts/Gateau-aux-pommes.md)
 - [Gâteau aux poires de Marien (végétalien)](./desserts/gateau-aux-poires-vegetalien.md)
+- [Gâteau au chocolat](./desserts/gateau-au-chocolat.md)
 
 ## Pains
 
