@@ -1,4 +1,4 @@
-# [Gâteau au chocolat](https://www.odelices.com/recette/gateau-au-chocolat-r191/)
+# Gâteau au chocolat
 
 Recette pour 8 à 10 personnes.
 
