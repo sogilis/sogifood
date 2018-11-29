@@ -10,6 +10,9 @@
 - [Gâteau aux poires de Marien (végétalien)](./desserts/gateau-aux-poires-vegetalien.md)
 - [Gâteau au chocolat](./desserts/gateau-au-chocolat.md)
 - [Crumble aux pommes](./desserts/crumble-aux-pommes.md)
+- [Outrageous Cookies](./desserts/outrageous-cookies.md)
+- [Torta Caprese (Gâteau au chocolat sans gluten)](./desserts/torta-caprese.md)
+- [Brownie au chocolat et à la guimauve](./desserts/brownie-chocolat-guimauve.md)
 
 ## Pains
 
