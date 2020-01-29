@@ -23,7 +23,13 @@ Recette pour 1 pizza (2.5 personnes).
 - Etaler les pommes (4 granny smith) pelées et coupées en tranches (façon tarte aux pommes).
 - Déposer les tranches de raclette (6-8) par-dessus.
 - Enfourner dans un four préchauffé à 200°C.
+
+![Avant cuisson](pommes_raclette_before_cook.jpeg "Avant cuisson")
+
 - Déguster bien chaud.
+
+![Après mangé](pommes_raclette_after_eat.jpeg "Après mangé")
+
 
 ## Trucs et astuces
 - Bien garnir en pommes.
