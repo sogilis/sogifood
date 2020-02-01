@@ -13,6 +13,7 @@
 - [Outrageous Cookies](./desserts/outrageous-cookies.md)
 - [Torta Caprese (Gâteau au chocolat sans gluten)](./desserts/torta-caprese.md)
 - [Brownie au chocolat et à la guimauve](./desserts/brownie-chocolat-guimauve.md)
+- [Flan patissier](./desserts/flan-patissier.md)
 
 ## Pains
 
@@ -27,9 +28,13 @@
 
 - [Terrine aux épices de pain d'épice](./foie_gras/terrine.md)
 
-## Plats
+## Viandes
 
 - [Magret de canard sauce poivre vert flambé au cognac](./plats/canard_poivre_vert_cognac.md)
+
+## Pizzas
+
+- [Pizza pomme raclette](./pizzas/pommes_raclette.md)
 
 ## Boissons
 
