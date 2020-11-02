@@ -5,7 +5,7 @@ Recette pour 6-8 gros tas / personnes.
 
 ## Ingrédients
 
-- 1 pâte feuilletée ou brisée (maison ou du commerce) ou sablée (c'est encore meilleurs)
+- 1 pâte feuilletée ou brisée (maison ou du commerce) ou sablée (c'est encore meilleur)
 - 1 l de lait demi-écrémé
 - 4 oeufs
 - 160 g de sucre
