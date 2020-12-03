@@ -41,3 +41,6 @@
 - [Rhum de Noël](./boissons/rhum_noel.md)
 - [Rhum arrangé caramel vanille](./boissons/rhum_caramel_vanille.md)
 - [Rhum arrangé orange citron clémentine](./boissons/rhum_orange_citron_clementine.md)
+
+## Soupes
+- [Soupe de lentilles corail et granola salé](./plats/soupe_lentilles_corail_granola.md)
