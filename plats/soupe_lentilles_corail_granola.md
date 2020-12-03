@@ -1,6 +1,6 @@
 # Soupe de lentilles corail et granola salé
 
-Une soupe gouteuse soupoudrée de granola salé croquant.
+Une soupe gouteuse saupoudrée de granola salé croquant.
 
 ## La soupe
 
